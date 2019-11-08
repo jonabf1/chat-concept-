@@ -1,6 +1,4 @@
-<h1 align="center">
   <h1>Chat-Concept</h1>
-</h1>
 
 #### 1. Dependencias Utilizadas
 <h2>Backend</h2>
