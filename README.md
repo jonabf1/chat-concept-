@@ -11,7 +11,7 @@
 - yarn install (install dependencies)
 - yarn start (to open the app)
 
-PS: remember to create the environment variables:
+## Remember to create the environment variables:
 - MONGO_URL (backend)
 - REACT_APP_BASE_URL (frontend)
 
