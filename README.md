@@ -5,21 +5,21 @@
 
 #### :rocket: Backend
 
-Axios
-Cors
-DotEnv
-Express
-Mongoose
-Socket.io
+- Axios
+- Cors
+- DotEnv
+- Express
+- Mongoose
+- Socket.io
 
 #### :rocket: Frontend
 
-Axios
-Cors
-DotEnv
-Express
-Mongoose
-Socket.io
+- Axios
+- Cors
+- DotEnv
+- Express
+- Mongoose
+- Socket.io
 
 #### 4. Resultado final
 
