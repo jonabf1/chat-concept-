@@ -1,7 +1,17 @@
   <h1>Chat-Concept</h1>
 
+### Como instalar
 
-### Dependencias Utilizadas
+#### :rocket: Backend
+
+- yarn install (install dependencies)
+- yarn dev (to open the server)
+
+#### :rocket: Frontend
+- yarn install (install dependencies)
+- yarn start (to open the app)
+
+### Dependencies used
 
 #### :rocket: Backend
 
@@ -29,4 +39,4 @@
 
 ---
 
-Feito com ♥ by [Jonathan](https://www.linkedin.com/in/jonathan-barros-franco)
+Made with ♥ by [Jonathan](https://www.linkedin.com/in/jonathan-barros-franco)
