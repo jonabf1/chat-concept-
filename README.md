@@ -1,7 +1,10 @@
   <h1>Chat-Concept</h1>
 
-#### 1. Dependencias Utilizadas
-<h2>Backend</h2>
+
+### Dependencias Utilizadas
+
+#### :rocket: Backend
+
 Axios
 Cors
 DotEnv
@@ -9,7 +12,8 @@ Express
 Mongoose
 Socket.io
 
-<h2>Frontend</h2>
+#### :rocket: Frontend
+
 Axios
 Cors
 DotEnv
