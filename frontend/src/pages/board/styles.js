@@ -29,6 +29,12 @@ display:flex;
    }
 }
 
+      .scrolldown{
+      display:fixed;
+      margin-bottom:10px;
+        cursor:pointer;
+    }
+
  .box-online{
    background:#8E8999;
    width:300px;
