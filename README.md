@@ -7,6 +7,8 @@
 - yarn install (install dependencies)
 - yarn dev (to open the server)
 
+create a root .env, create a bank in Mongo Atlas and add the URL in the format 'mongodb + srv:' as MONGO_URL
+
 #### :rocket: Frontend
 - yarn install (install dependencies)
 - yarn start (to open the app)
