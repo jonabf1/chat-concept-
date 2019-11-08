@@ -1,6 +1,6 @@
   <h1>Chat-Concept</h1>
 
-### Como instalar
+### How install
 
 #### :rocket: Backend
 
@@ -33,7 +33,7 @@
 - Socket.io-client
 - Styled-components
     
-#### 4. Resultado final
+#### 4. Final result
 
 ![Alt Text](frontend/src/assets/c.gif)
 
