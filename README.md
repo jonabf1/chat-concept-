@@ -15,12 +15,14 @@
 #### :rocket: Frontend
 
 - Axios
-- Cors
+- react
 - DotEnv
-- Express
-- Mongoose
+- react-router-dom
+- react-icons
 - Socket.io
-
+- Socket.io-client
+- Styled-components
+    
 #### 4. Resultado final
 
 ![Alt Text](frontend/src/assets/c.gif)
