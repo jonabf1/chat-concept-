@@ -2,7 +2,7 @@
   <h1>Chat-Concept</h1>
 </h1>
 
-#### :rocket: 1. Dependencias Utilizadas
+#### 1. Dependencias Utilizadas
 <h2>Backend</h2>
 Axios
 Cors
