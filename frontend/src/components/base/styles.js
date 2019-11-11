@@ -50,13 +50,13 @@ export const Container = styled.div`
     align-items: center;
     justify-content: center;
     small {
-      color: #fff;
+      color: #aea8ba;
       font-size: 1.1rem;
       text-align: center;
       font-family: 'Montserrat', sans-serif !important;
 
       a {
-        color: #fff;
+        color: #aea8ba;
         text-decoration: none;
       }
     }

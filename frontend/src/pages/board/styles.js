@@ -82,7 +82,7 @@ export const Container = styled.div`
       border-bottom-left-radius: 4px;
       max-height: 80%;
       overflow: auto;
-      width: 75%;
+      width: 80%;
       color: #fff;
       background: #635e6e;
       border-radius: 4px;
@@ -92,7 +92,7 @@ export const Container = styled.div`
           background-color: #edf0f4;
         }
         ::-webkit-scrollbar {
-          width: 10px;
+          width: 8px;
           background: #494453;
         }
         ::-webkit-scrollbar-thumb {
@@ -174,7 +174,7 @@ export const Container = styled.div`
           background-color: #edf0f4;
         }
         ::-webkit-scrollbar {
-          width: 10px;
+          width: 8px;
           background: #494453;
         }
         ::-webkit-scrollbar-thumb {
