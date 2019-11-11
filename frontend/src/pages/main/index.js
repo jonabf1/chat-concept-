@@ -1,24 +1,21 @@
 import React from 'react';
-import { FaGithub, FaUserAlt} from 'react-icons/fa';
-import { Container, SubmitButton1, SubmitButton2 } from './styles';
+import { FaGithub, FaUserAlt } from 'react-icons/fa';
+import { SubmitButton1, SubmitButton2 } from './styles';
+import Header from '../../components/header';
 
 export default function Main({ history }) {
-
   function nextRoute(id) {
-    if(id===1){
+    if (id === 1) {
       history.push(`/login/${id}`);
-    }
-    else{
+    } else {
       history.push(`/login/${id}`);
     }
   }
 
   return (
     <>
-      <div className="header">
-        <h2>chat</h2>
-      </div>
-      <Container>
+      <Header visibleLeft={false} visibleImage={false} />
+      <div>
         <SubmitButton2 onClick={() => nextRoute(1)}>
           <FaUserAlt color="#FFF" size={20} />
           Visitante
@@ -27,7 +24,7 @@ export default function Main({ history }) {
           <FaGithub color="#fff" size={25} />
           Github
         </SubmitButton1>
-      </Container>
+      </div>
     </>
   );
 }

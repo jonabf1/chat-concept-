@@ -1,13 +1,9 @@
 import React, { useState, useEffect } from 'react';
-import {
-  FaSpinner,
-  FaChevronLeft,
-  FaArrowDown,
-  FaChevronRight,
-} from 'react-icons/fa';
+import { FaSpinner, FaArrowDown } from 'react-icons/fa';
 import socket from 'socket.io-client';
 import { Container } from './styles';
 import Api from '../../services/api';
+import Header from '../../components/header';
 
 export default function Board({ history }) {
   const [dateUser, setDateUser] = useState('');
@@ -120,11 +116,7 @@ export default function Board({ history }) {
 
   return (
     <>
-      <div className="header">
-        <FaChevronLeft onClick={() => prevRoute()} color="#fff" size={20} />
-        <h2>chat</h2>
-        <FaChevronRight color="#fff" size={20} />
-      </div>
+      <Header visibleLeft visibleImage img={history.location.state.image} />
       <Container>
         <div className="box-online">
           <img src={dateUser.image} alt="avatar" />
@@ -189,7 +181,7 @@ export default function Board({ history }) {
                         {item.authorId.provider ? '#github' : 'visitor'}
                       </a>
                     </strong>
-                    {item.message}
+                    <p>{item.message}</p>
                   </div>
                 </div>
               ))}
@@ -197,7 +189,11 @@ export default function Board({ history }) {
           )}
           {statusDiv && (
             <div onClick={() => scrollDown()} className="scrolldown">
-              <FaArrowDown color="#fff" size={30} />
+              <FaArrowDown
+                onClick={() => scrollDown()}
+                color="#fff"
+                size={30}
+              />
             </div>
           )}
           <form onSubmit={handleSubmit}>
