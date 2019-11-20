@@ -19,23 +19,23 @@
 
 #### :rocket: Backend
 
-- Axios
-- Cors
-- DotEnv
-- Express
-- Mongoose
-- Socket.io
+- axios
+- cors
+- dotenv
+- express
+- mongoose
+- socket.io
 
 #### :rocket: Frontend
 
-- Axios
+- axios
 - react
-- DotEnv
+- dotEnv
 - react-router-dom
 - react-icons
-- Socket.io
-- Socket.io-client
-- Styled-components
+- socket.io
+- socket.io-client
+- styled-components
     
 #### 4. Final result
 
