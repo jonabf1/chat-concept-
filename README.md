@@ -1,4 +1,7 @@
   <h1>Chat-Concept</h1>
+  <p align="center">
+  <img src="https://www.svgpngicons.com/jpg/chat-vector-14.jpg" width="200px"/>
+  </p>
 
 ### How install
 
@@ -37,7 +40,7 @@
 - socket.io-client
 - styled-components
     
-#### 4. Final result
+#### 4. Final result Frontend
 
 ![Alt Text](frontend/src/assets/c.gif)
 
