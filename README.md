@@ -1,6 +1,6 @@
   <h1>Chat-Concept</h1>
   <p align="center">
-  <img src="https://www.pngrepo.com/png/262627/170/chat.png" width="200px"/>
+  <img src="https://www.pngrepo.com/download/262627/chat.png" width="200px"/>
   </p>
 
 ### How install
