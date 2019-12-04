@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.pngrepo.com/png/262627/170/chat.png" width="170px"/>
+  <img src="https://www.pngrepo.com/png/262627/170/chat.png" width="120px"/>
   </p>
   
   <h1 align="center">Chat Concept</h1>
