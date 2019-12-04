@@ -1,16 +1,19 @@
-  <h1>Chat-Concept</h1>
-  <p align="center">
+<p align="center">
   <img src="https://i.52112.com/icon/256/20170302/5005/265761.png" width="200px"/>
   </p>
 
-### How install
+<h1 align="center>
+     Chat Concept
+           </h1>
+           
+### :rocket: How install
 
-#### :rocket: Backend
+#### Backend
 
 - yarn install (install dependencies)
 - yarn dev (to open the server)
 
-#### :rocket: Frontend
+#### Frontend
 - yarn install (install dependencies)
 - yarn start (to open the app)
 
@@ -18,9 +21,9 @@
 - MONGO_URL (backend)
 - REACT_APP_BASE_URL (frontend)
 
-### Dependencies used
+### :rocket: Dependencies used
 
-#### :rocket: Backend
+#### Backend
 
 - axios
 - cors
@@ -29,7 +32,7 @@
 - mongoose
 - socket.io
 
-#### :rocket: Frontend
+#### Frontend
 
 - axios
 - react
@@ -40,10 +43,15 @@
 - socket.io-client
 - styled-components
     
-#### 4. Final result Frontend
+#### :rocket: Final result Frontend
 
-![Alt Text](frontend/src/assets/c.gif)
+<p align="center">
+<img src="frontend/src/assets/c.gif" alt="gif"/>
+</p>
 
----
+<hr/>
 
-Made with ♥ by [Jonathan](https://www.linkedin.com/in/jonathan-barros-franco)
+<p align="center">
+Feito com ♥ by <a href="https://www.linkedin.com/in/jonathan-barros-franco">Jonathan</a>
+</p>
+
