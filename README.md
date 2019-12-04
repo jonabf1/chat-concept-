@@ -1,10 +1,6 @@
 <p align="center">
   <img src="https://i.52112.com/icon/256/20170302/5005/265761.png" width="200px"/>
   </p>
-
-<h1 align="center>
-     Chat Concept
-           </h1>
            
 ### :rocket: How install
 
