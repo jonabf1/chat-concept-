@@ -44,7 +44,7 @@ This is a project to train some concepts in Node.js and ReactJS
 - socket.io-client
 - styled-components
     
-#### :rocket: Final result Frontend
+#### :rocket: Final result in Frontend
 
 <p align="center">
 <img src="frontend/src/assets/c.gif" alt="gif"/>
