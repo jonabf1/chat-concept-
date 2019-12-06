@@ -53,6 +53,6 @@ This is a project to train some concepts in Node.js and ReactJS
 <hr/>
 
 <p align="center">
-Feito com ♥ by <a href="https://www.linkedin.com/in/jonathan-barros-franco">Jonathan</a>
+Made with ♥ by <a href="https://www.linkedin.com/in/jonathan-barros-franco">Jonathan</a>
 </p>
 
