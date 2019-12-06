@@ -19,8 +19,8 @@ This is a project to train some concepts in Node.js and ReactJS
 - yarn start (to open the app)
 
 ## Remember to create the environment variables:
-- MONGO_URL (backend)
-- REACT_APP_BASE_URL (frontend)
+- MONGO_URL (MongoDB url) - in Backend
+- REACT_APP_BASE_URL (backend url) - in Frontend
 
 ### :rocket: Dependencies used
 
